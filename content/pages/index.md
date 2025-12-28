@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Mãe, sua rotina é corrida? DeixeNOSSOS MATERIAIS cuidarem da Fée
-        Diversão dos seus filhos, PORVOCÊ!
+      text: M!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
